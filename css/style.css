@@ -1,0 +1,43 @@
+
+.brand-gradient{
+    
+    background: #0084ff; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #0084ff, #32cd34); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #0084ff, #32cd34); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.vr{
+    color: white;
+}
+
+body{
+    background: #0084ff; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #7a7a7a, #282828); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #202020, #717070); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;        
+}
+
+.navbar{
+    margin-top: -8px;
+}
+
+#search-bar{
+    border-radius: 25px     ;
+    margin-right: -6px;
+    
+}
+
+.d-flex{
+    justify-content: center;
+}
+
+
+
+.fw-light{
+    color: black;
+}
